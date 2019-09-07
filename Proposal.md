@@ -37,7 +37,7 @@ For our project, we are building an application that will allow households to ma
 # System Environment
 &nbsp;
 
-![3-tier diagram](https://github.com/SangT/CS157A-Team39-FAMLOG/blob/master/project_proposal/structured_diagram.png)
+![3-tier diagram](https://github.com/CS157A-Team39-FAMLOG/project_proposal/blob/master/structured_diagram.png)
 
                                       Structured diagram of the 3-tier architecture
 &emsp;
